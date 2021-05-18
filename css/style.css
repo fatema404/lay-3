@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+}
+.header{
+    overflow: hidden;
+}
+.logo{
+    height: 100px;
+    width:30%;
+    background-color: chocolate;
+    float: left;
+    text-align: center;
+}
+.menu{
+    height: 100px;
+    width: 70%;
+    background-color: goldenrod;
+    float: right;
+    text-align: center;
+}
+.bar{
+    height: 80px;
+    background-color: rgb(184, 68, 126);
+    text-align: center;
+}
+.content{
+    overflow: hidden;
+
+}
+.left{
+    width: 20%;
+    height: 450px;
+    background-color: rgb(88, 77, 77);
+    text-align: center;
+    float: left;
+
+}
+.center{
+
+    width: 60%;
+    height: 450px;
+    background-color: rgb(76, 121, 32);
+    float: left;
+}
+.right{
+    width: 20%;
+    height: 450px;
+    background-color: rgb(88, 77, 77);
+    text-align: center;
+    float: left;
+}
+.top{
+    height: 30%;
+    background-color: yellowgreen;
+}
+.middle{
+    height: 40%;
+    background-color: rgb(192, 149, 155);
+    overflow: hidden;
+}
+.bottom{
+    height: 30%;
+    background-color: yellowgreen;
+}
+.middle-left{
+    width: 50%;
+    background-color:ghostwhite;
+    float: left;
+    height: 100%;
+}
+.middle-right{
+    width: 50%;
+    background-color: tomato;
+    float: left;
+    height: 100%;
+
+}
+.footer{
+    height: 100px;
+    background-color: rgb(112, 135, 236);
+    text-align: center;
+}
